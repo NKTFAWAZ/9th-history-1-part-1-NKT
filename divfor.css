@@ -1,0 +1,18 @@
+html{
+    background-color: darkcyan;
+}
+h1{
+    background-color: aqua;
+}
+p{
+    color: red;
+}
+li{
+    color: red;
+}
+.points{
+    background-color: rgb(232, 240, 236);
+}
+img{
+    align-items: center;
+}
